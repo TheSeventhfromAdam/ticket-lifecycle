@@ -25,7 +25,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9SdwWcQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nFJRM1w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JYxNUv8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1 Intake: After logging in to VM via Remote Desktop go to http://localhost/osTicket/ to create tickets as a customer. 
@@ -36,7 +38,7 @@ Step 1 Intake: After logging in to VM via Remote Desktop go to http://localhost/
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2 Assignment and Communication: Login to http://localhost/osTicket/scp/login.php as an Admin to assign the tickets made in step 1. 
+Step 2 Assignment and Communication: Login to http://localhost/osTicket/scp/login.php as an agent account to assign the tickets made in step 1. Set the settings according to what level of priority the problem is and assign it to an agent. Follow examples as a guideline.
 </p>
 <br />
 
@@ -44,7 +46,7 @@ Step 2 Assignment and Communication: Login to http://localhost/osTicket/scp/logi
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3 Working the Issue:
+Step 3 Working the Issue: Go to "My Tickets" as the assigned agent.
 </p>
 <br />
 
@@ -52,6 +54,6 @@ Step 3 Working the Issue:
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 4 Resolution:
+Step 4 Resolution: Write reply and close out ticket as "resolved" to close out the ticket.
 </p>
 <br />
