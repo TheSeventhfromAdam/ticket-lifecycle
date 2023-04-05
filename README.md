@@ -48,7 +48,7 @@ Step 2 Assignment and Communication: Login to http://localhost/osTicket/scp/logi
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W2X8kkr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 3 Working the Issue: Go to "My Tickets" as the assigned agent.
@@ -56,7 +56,9 @@ Step 3 Working the Issue: Go to "My Tickets" as the assigned agent.
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0rcAJCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/64vq5oD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FEvlQPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 4 Resolution: Write reply and close out ticket as "resolved" to close out the ticket.
