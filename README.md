@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1 Intake: After logging in to VM via Remote Desktop go to http://localhost/osTicket/ to create a ticket. 
+Step 1 Intake: After logging in to VM via Remote Desktop go to http://localhost/osTicket/ to create tickets as a customer. 
 </p>
 <br />
 
@@ -36,7 +36,7 @@ Step 1 Intake: After logging in to VM via Remote Desktop go to http://localhost/
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2 Assignment and Communication:
+Step 2 Assignment and Communication: Login to http://localhost/osTicket/scp/login.php as an Admin to assign the tickets made in step 1. 
 </p>
 <br />
 
